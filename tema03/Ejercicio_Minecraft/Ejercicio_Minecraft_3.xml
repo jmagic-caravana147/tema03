@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item id ="0001" crafteable ="true" enchantable ="true">
+        <id>0001</id>
+        <name>Espada de Netherite</name>
+        <type>Arma</type>
+        <rarity>común</rarity>
+        <damage>8 corazones</damage>
+        <description>Arma cuerpo a cuerpo, utilizadas principalmente para atacar a criaturas o jugadores.</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>1 Palo</material>
+            <material>2 Lingotes de Netherite</material>
+        </materials>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Aspecto Igneo</enchantment>
+            <enchantment>Afilado</enchantment>
+        </enchantments>
+        <destructible>true</destructible>
+            <durability>2032</durability>
+    </item>
+
+    <item id ="0002" crafteable ="true" enchantable ="true">
+        <id>0002</id>
+        <name>Pala de diamane</name>
+        <type>Herramienta</type>
+        <rarity>Rareza (ej: común, raro, épico)</rarity>
+        <damage>Cavar bloques de tierra eficientemente</damage>
+        <description>Herramienta que ayuda en el proceso de excavacion y recoleccion de tierr, arena, grava, arcilla y nieve.</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>1 Palo</material>
+            <material>2 Diamantes</material>
+        </materials>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Eficiencia</enchantment>
+            <enchantment>Irompible</enchantment>
+        </enchantments>
+        <destructible>true</destructible>
+            <durability>1561</durability>
+    </item>
+
+    <item id ="0003" crafteable ="true" enchantable ="true">
+        <id>0003</id>
+        <name>Arco</name>
+        <type>Arma</type>
+        <rarity>comun</rarity>
+        <damage>9 Corazones si esta tensado al maximo</damage>
+        <description>Arma que permite disparar flechas</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>3 palos</material>
+            <material>3 hilos</material>
+        </materials>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Infinidad</enchantment>
+            <enchantment>Reparacion</enchantment>
+        </enchantments>
+        <destructible>true</destructible>
+            <durability>384</durability>
+    </item>
+    
+</minecraftItems>

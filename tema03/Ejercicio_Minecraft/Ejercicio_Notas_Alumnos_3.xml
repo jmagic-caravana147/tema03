@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notasAlumnos lang="es">
+    <Alumno>
+        <name>Nombre Alumno</name>
+        <Apellidos>Apellido Alumno</Apellidos>
+        <NIA>NIA Alumno</NIA>
+    </Alumno>
+    
+    <Modulo>
+        <name>Nombre Modulo</name>
+        <NO>Nota Obtenida</NO>
+    </Modulo>
+</notasAlumnos>
